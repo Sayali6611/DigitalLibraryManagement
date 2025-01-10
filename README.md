@@ -1,4 +1,4 @@
-Digital Library Management <br>
+<strong> Digital Library Management </strong> <br>
 
 The main objective of this project is to provide a complete automated Library by digitizing. each and every functionality. Starting from the book-keeping, issuing of books, 
 fine generation, advance booking and report generation all will be accomplished under one single project. The project will be a web based project with a database server responsible 
@@ -36,14 +36,6 @@ mysql> create table Admins (Admin_id int auto_increment primary key, Username va
 Query OK, 0 rows affected (0.03 sec)
 
 mysql> select * from Books;
-Empty set (0.15 sec)
 
-mysql> select * from Books;
-+---------+---------+--------+----------+-----------+
-| Book_id | Title   | Author | Category | Status    |
-+---------+---------+--------+----------+-----------+
-|       1 | ramayan | ram    | read     | Available |
-+---------+---------+--------+----------+-----------+
-1 row in set (0.01 sec)
 
 
