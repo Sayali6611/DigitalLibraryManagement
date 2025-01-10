@@ -18,7 +18,7 @@ There are essentially two modules of this software;
 
 <strong> MySQL (Database Query) </strong> <br>
 
- CREATE TABLE Books (
+<pre> CREATE TABLE Books (
     book_id INT AUTO_INCREMENT PRIMARY KEY,
     title VARCHAR(255),
     author VARCHAR(255),
@@ -49,7 +49,7 @@ CREATE TABLE Admins (
     admin_id INT AUTO_INCREMENT PRIMARY KEY,
     username VARCHAR(50),
     password VARCHAR(50)
-);
+); </pre>
 
 
 
