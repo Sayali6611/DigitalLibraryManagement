@@ -6,7 +6,7 @@ for maintaining every single detall of the Library. It has a very user friendly 
 
 There are essentially two modules of this software;
 
-* <strong>Admin module:</strong> Admin will have complete control over the system. Admin has permissions to update, delete or modify any existing record or make a new entry
+* <strong>Admin:</strong> Admin will have complete control over the system. Admin has permissions to update, delete or modify any existing record or make a new entry
  (books and members).
 
 * <strong>Users:</strong> The normal users enjoy only limited privileges. They have a view access to the books. They can browse through the categories, search
